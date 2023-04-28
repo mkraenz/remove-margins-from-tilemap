@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "noEmit": false,
+    "outDir": "dist",
+    "target": "esnext",
+    "sourceMap": true,
+    "lib": ["esnext"],
+    "allowSyntheticDefaultImports": true
+  }
+}
